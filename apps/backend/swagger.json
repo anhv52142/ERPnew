@@ -1,0 +1,9 @@
+{
+  "title": "HMT ERP API",
+  "description": "HMT ERP Backend REST API with Swagger Documentation",
+  "version": "1.0.0",
+  "contact": {
+    "name": "HMT ERP Team",
+    "email": "support@hmterp.com"
+  }
+}
